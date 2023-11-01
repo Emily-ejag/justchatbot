@@ -1,0 +1,19 @@
+.bonnie-avatar{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.9rem;
+    background-color: cadetblue;
+    color:white;
+    margin-right: 10px;
+    /* margin: 20px; */
+}
+
+/* @media screen and (max-width: 700px) {
+    .bonnie-avatar{
+    width: 20px;
+    height: 20px;}
+} */
