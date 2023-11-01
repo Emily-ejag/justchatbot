@@ -81,12 +81,13 @@
     border: 1px solid cadetblue;
     padding: 10px;
     margin: 20px;
+    flex-direction: column;
 }
 
 .row{
     /* background-color: cornflowerblue; */
     display: flex;
-    flex-direction: row; 
+    flex-direction: column; 
     padding: 1px;
     /* flex-direction: row-reverse; --- para que se pongan al reves el orden y al otro lado*/
     /* flex-direction: column; --- para que se hagan columnas*/

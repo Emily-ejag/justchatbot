@@ -20,7 +20,7 @@
 .row-image{
     /* background-color: cornflowerblue; */
     display: flex;
-    flex-direction: row; /* --- default  */
+    flex-direction: column; /* --- default  */
     /* flex-direction: row-reverse; --- para que se pongan al reves el orden y al otro lado*/
     /* flex-direction: column; --- para que se hagan columnas*/
     /* flex-direction: column-reverse; --- columnas al reves*/
